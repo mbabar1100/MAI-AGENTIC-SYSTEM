@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+pandas
+requests
+python-docx
+reportlab
+openpyxl
